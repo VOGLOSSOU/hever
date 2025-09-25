@@ -1,0 +1,5 @@
+Je veux créer un site web de commerce electronique ! 
+
+Le site va présenter une large catégori de produit 
+allant des pagnes , chaussures, habits,  vetements, complet tout cousu , et autres types d' articles. 
+
